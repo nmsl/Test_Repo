@@ -1,0 +1,4 @@
+git add . // Add all files
+git commit -m "Commit Message"
+git push
+input your username and password
