@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master
+=======
+b_test file
+>>>>>>> b_test
