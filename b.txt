@@ -6,4 +6,10 @@ b_branch
 master file content
 =======
 test branch merge
+<<<<<<< HEAD
 >>>>>>> new_branch
+=======
+
+
+123123
+>>>>>>> Update b.txt on new_branch
