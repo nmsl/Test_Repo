@@ -2,4 +2,8 @@ master
 
 b_branch
 
+<<<<<<< HEAD
 master file content
+=======
+test branch merge
+>>>>>>> new_branch
